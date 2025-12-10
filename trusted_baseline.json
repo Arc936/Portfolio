@@ -1,0 +1,9 @@
+{
+    "timestamp": "2025-12-09T23:15:15.864732",
+    "hashes": {
+        "file_a.txt": "97a02a9384662273a95216e399ae86983cf333abfb7d188702db81411af7b523",
+        "file_c.dat": "896ba018130a388da21a3cb4ee1f72f535e4a5a46d34c8e3fba19a1b7cf23281",
+        "file_d_copy.dat": "896ba018130a388da21a3cb4ee1f72f535e4a5a46d34c8e3fba19a1b7cf23281",
+        "malware_payload.exe": "28fc48c88fea46666215c7818fd0d7aee77facfd6841bbac0b3697c1fb79d31a"
+    }
+}
